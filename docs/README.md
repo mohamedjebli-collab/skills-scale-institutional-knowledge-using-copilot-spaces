@@ -18,5 +18,6 @@ Quality assurance is built into execution and release. Teams run CI checks (test
 - [OctoAcme Release and Deployment](./octoacme-release-and-deployment.md)
 - [OctoAcme Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme Cross-functional Handoff Checklist](./octoacme-cross-functional-handoff-checklist.md)
 
 For detailed procedures, templates, and checklists, use the individual process documents linked above.
