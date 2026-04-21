@@ -7,6 +7,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
+- Include cross-functional representatives (for example UX/UI Designer, Business Analyst, Technical Writer, Support Lead, SRE) when scope, quality, docs, support readiness, or reliability risks are discussed
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -38,3 +39,4 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Cross-functional handoffs tracked using the [OctoAcme Cross-functional Handoff Checklist](./octoacme-cross-functional-handoff-checklist.md)
